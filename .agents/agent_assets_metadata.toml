@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "N1mpVNm-a5ouWoFed2ieb"
+uri = "file://project-source.zip"
+type = "unspecified"
+title = "Project source code ZIP"
+description = "Complete project source archive with artifacts, shared libraries, assets, scripts, lockfile, and configuration. Dependencies, caches, and Git metadata are excluded."
